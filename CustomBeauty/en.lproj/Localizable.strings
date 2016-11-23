@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  CustomBeauty
+
+  Created by Johnny on 10/19/14.
+  Copyright (c) 2014 Future Studio. All rights reserved.
+*/
+
+"Custom" = "Custom";
+"Save" = "Save";
+"Template" = "Template";
+"UsageHint" = "Click to start";
+"Success" = "Success";
+"MsgSuccess" = "Saved to the camera roll!";
+"Ok" = "ok";
+"Failed" = "Failed";
+"MsgFailed" = "Save to album failed!";
+"Effect" = "Effect";
+"MsgConvertFailed" = "File convert failed!";
+"Processing" = "Processing";
+"SaveVideo" = "Save Video";
+
+"Finish" = "Finish";
+"Skip" = "Skip";
+"Cancel" = "Cancel";
+"Abandon" = "Abandon";
+"Reminder" = "Reminder";
+"CancelVideoHint" = "To give up this video?";
+"ExceedHint" = "Exceed Maximum Number Of Selection.";
+
+"ScrollTextTitle" = "Scroll Text";
+"ScrollTextHint" = "Scroll text in here";
+"BottomTextTitle" = "Bottom Text";
+"BottomTextHint" = "Bottom text in here";
+"TopTextTitle" = "Top Text";
+"TopTextHint" = "Top text in here";
+"StartupTextTitle" = "Startup Text";
+"StartupTextHint" = "Startup text in here";
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+
+"CustomPhotoTitle" = "Choose Photos";
+"CustomPhotoBody" = "The Photos will be used for some special effects animation.";
+"CustomPhotoBtnText" = "Pickup Now";
+
+"CustomMusicTitle" = "Choose Music";
+"CustomMusicBody" = "This music will be used for background music.";
+"CustomMusicBtnText" = "Pickup Now";
+
+"CustomVideoTitle" = "Choose Video";
+"CustomVideoBody" = "This video will be used for background display.";
+"CustomVideoBtnText" = "Pickup Now";
+
+"CustomEffectTitle" = "Choose Effect";
+"CustomEffectBody" = "This effect will be used for photos animation.";
+"CustomEffectBtnText" = "Pickup Now";
+
+"CustomVideoBorderTitle" = "Choose Border";
+"CustomVideoBorderBody" = "This border will be used for video frame.";
+"CustomVideoBorderBtnText" = "Pickup Now";
+
+"CustomTextEffectTitle" = "Input Text";
+"CustomTextEffectBody" = "The text effect will be used for text animation.";
+"CustomTextEffectBtnText" = "Pickup Now";
+
+"CustomEndTitle" = "Bingo";
+"CustomEndBody" = "Let's go and win the kudos of the photographer.";
+"CustomEndBtnText" = "Get Started";

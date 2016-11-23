@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  CustomBeauty
+
+  Created by Johnny on 10/19/14.
+  Copyright (c) 2014 Future Studio. All rights reserved.
+*/
+
+"Custom" = "定制";
+"Save" = "保存";
+"Template" = "模板";
+"UsageHint" = "点击开始";
+"Success" = "成功";
+"MsgSuccess" = "保存成功!";
+"Ok" = "确定";
+"Failed" = "失败";
+"MsgFailed" = "保存失败!";
+"Effect" = "特效";
+"MsgConvertFailed" = "文件转换失败!";
+"Processing" = "正在处理";
+"SaveVideo" = "正在保存";
+
+"Finish" = "完成";
+"Skip" = "跳过";
+"Cancel" = "取消";
+"Abandon" = "放弃";
+"Reminder" = "提醒";
+"CancelVideoHint" = "真要放弃这个视频么?";
+"ExceedHint" = "超出了最大的选取个数.";
+
+"ScrollTextTitle" = "滚动文本";
+"ScrollTextHint" = "输入滚动显示文本";
+"BottomTextTitle" = "底部文本";
+"BottomTextHint" = "输入底部显示文本";
+"TopTextTitle" = "顶部文本";
+"TopTextHint" = "输入顶部显示文本";
+"StartupTextTitle" = "启动文本";
+"StartupTextHint" = "输入启动显示文本";
+"Cancel" = "取消";
+"Confirm" = "确认";
+
+"CustomPhotoTitle" = "选取照片";
+"CustomPhotoBody" = "这些照片将被用于特效动画.";
+"CustomPhotoBtnText" = "开始选取";
+
+"CustomMusicTitle" = "选取音乐";
+"CustomMusicBody" = "这个音乐将被用于背景音效.";
+"CustomMusicBtnText" = "开始选取";
+
+"CustomVideoTitle" = "选取视频";
+"CustomVideoBody" = "这个视频将被用于背景显示.";
+"CustomVideoBtnText" = "开始选取";
+
+"CustomEffectTitle" = "选取特效";
+"CustomEffectBody" = "这个特效将被用于照片特效.";
+"CustomEffectBtnText" = "开始选取";
+
+"CustomVideoBorderTitle" = "选取边框";
+"CustomVideoBorderBody" = "这个边框将被用于视频外框.";
+"CustomVideoBorderBtnText" = "开始选取";
+
+"CustomTextEffectTitle" = "输入文字";
+"CustomTextEffectBody" = "这些文字将被用于文字特效.";
+"CustomTextEffectBtnText" = "开始选取";
+
+"CustomEndTitle" = "定制成功";
+"CustomEndBody" = "让我们一同去体验大片的快感！";
+"CustomEndBtnText" = "启动";
