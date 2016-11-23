@@ -11,4 +11,4 @@ Johnny Xu(徐景周)
 Future Studio
 
 Demo 1    
-<img src="https://github.com/xujingzhou/VideoBeautify/blob/master/Resource/Demo/Demo.gif" width = "300" height = "300" alt="Demo" align=center />
+<img src="https://github.com/xujingzhou/CustomVideo/blob/master/Resource/Demo/Demo.gif" width = "300" height = "300" alt="Demo" align=center />
