@@ -10,5 +10,5 @@ Tested on iPhone 4 and iPhone 5S.
 Johnny Xu(徐景周)  
 Future Studio
 
-Demo 1    
+Demo  
 <img src="https://github.com/xujingzhou/CustomVideo/blob/master/Resources/Demo/Demo.gif" width = "300" height = "300" alt="Demo" align=center />
