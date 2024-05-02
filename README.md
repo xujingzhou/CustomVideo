@@ -6,7 +6,7 @@
 3.Support saving the video to photo album.  
 
 产品效果展示：   
-https://www.douyin.com/video/7363552049025256719  
+https://www.kuaishou.com/short-video/3xv97yufaiyqpya    
 
 Copyright and all rights therein are retained by authors or by other copyright holders.(个人研究所得)  
 Johnny Xu(徐景周)  
