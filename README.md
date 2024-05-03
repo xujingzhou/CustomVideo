@@ -8,7 +8,7 @@
 产品效果展示：   
 https://v.m.chenzhongtech.com/fw/long-video/3xv97yufaiyqpya    
 
-Copyright and all rights therein are retained by authors or by other copyright holders.
-Johnny Xu(徐景周)  
+Copyright and all rights therein are retained by authors or by other copyright holders.  
+Johnny Xu(徐景周)   
 Future Studio  
  
